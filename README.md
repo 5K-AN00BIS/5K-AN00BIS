@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ryan.
+- 👀 I’m interested in C++, C#, Java, REST API work and just about anything new I can learn about!
+- 🌱 I’m currently learning about OpenCV for a passion project that I'm working on. I'm using a camera with OpenCV to identify specific details of an item and automatically searching through an active database.
+- 💞️ I’m looking to collaborate on anything! I'll take any experience I can get.
+- 📫 You can reach me through here, on GitHub if needed!
